@@ -15,7 +15,7 @@
 		<div class="container">
     		<div class="blurb">
         		<h1>Hi there, I'm Parveez Sharieff!</h1>
-				<p>Welcome to my page <a href="/about">Read more about my life...</a></p>
+				<p>Welcome to my page, thanks for coming <a href="/about">Read more about my life...</a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
